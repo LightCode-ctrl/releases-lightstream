@@ -1,0 +1,9 @@
+# Ignorar ejecutables e instaladores de producción
+*.exe
+*.dmg
+*.zip
+*.AppImage
+*.blockmap
+
+# Ignorar archivos de metadatos de actualización (se suben como assets a Releases)
+*.yml
