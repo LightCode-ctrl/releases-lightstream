@@ -2,7 +2,7 @@
 
 ¡Bienvenido al canal oficial de descargas y distribución de **LightStream**! 
 
-LightStream es una suite interactiva de escritorio diseñada para llevar la interacción de tus transmisiones en directo (TikTok, Kick, Twitch) al siguiente nivel, conectando los eventos del chat directamente con tu PC y tus overlays de streaming.
+LightStream es una suite interactiva de escritorio (actualmente disponible únicamente para Windows) diseñada para llevar la interacción de tus transmisiones en directo (TikTok, Kick, Twitch) al siguiente nivel, conectando los eventos del chat directamente con tu PC y tus overlays de streaming.
 
 ---
 
@@ -40,11 +40,6 @@ Puedes descargar el instalador oficial de LightStream directamente desde la secc
 2. Abre el archivo descargado para iniciar el asistente de instalación.
 3. Elige la carpeta de instalación y completa el asistente.
 4. > 💡 **Nota sobre Windows SmartScreen:** Al ser una aplicación de distribución propia, Windows podría mostrar la advertencia *"Windows protegió su PC"*. Haz clic en **"Más información"** y luego en **"Ejecutar de todos modos"** para continuar con la instalación de forma segura.
-
-### 🍎 Instalación en macOS (Mac)
-1. Descarga el archivo ejecutable de macOS (`LightStream-Setup-X.Y.Z.dmg` o el `.zip`) desde la página de Releases.
-2. Abre el archivo `.dmg` descargado y arrastra **LightStream** a tu carpeta de Aplicaciones.
-3. > 💡 **Nota de Seguridad de macOS:** Al abrir la app por primera vez, si macOS indica que el desarrollador no está identificado, ve a **Ajustes del Sistema > Privacidad y Seguridad** y haz clic en **"Abrir de todos modos"**.
 
 ---
 

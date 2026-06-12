@@ -7,3 +7,10 @@
 
 # Ignorar archivos de metadatos de actualización (se suben como assets a Releases)
 *.yml
+
+# Ignorar carpetas y archivos temporales de electron-builder
+win-unpacked/
+mac/
+linux-unpacked/
+builder-effective-config.yaml
+builder-debug.yml
