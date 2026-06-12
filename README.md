@@ -31,17 +31,20 @@ LightStream es una suite interactiva de escritorio diseñada para llevar la inte
 
 ## 📥 Descarga e Instalación
 
-### 🪟 Windows (.exe)
-1. Descarga el archivo de instalación ejecutable más reciente desde el listado superior:
-   * Busca el archivo `LightStream-Setup-[Version].exe` en la lista.
-2. Abre el archivo descargado para iniciar el asistente de instalación.
-3. > 💡 **Nota sobre Windows SmartScreen:** Al ser una aplicación privada y sin firma comercial digital de Microsoft, Windows podría mostrar el aviso *"Windows protegió su PC"*. Haz clic en **"Más información"** y luego en **"Ejecutar de todos modos"** para continuar sin problemas.
+Puedes descargar el instalador oficial de LightStream directamente desde la sección de **Releases (Lanzamientos)** de este repositorio:
 
-### 🍎 macOS / Apple (.dmg)
-1. Descarga el instalador oficial para Mac:
-   * Busca el archivo `LightStream-Setup-[Version].dmg` (o el `.zip` correspondiente).
+👉 **[Descargar la última versión desde GitHub Releases](https://github.com/LightCode-ctrl/releases-lightstream/releases)**
+
+### 🪟 Instalación en Windows
+1. Descarga el archivo `LightStream-Setup-X.Y.Z.exe` correspondiente a la versión más reciente en la página de Releases.
+2. Abre el archivo descargado para iniciar el asistente de instalación.
+3. Elige la carpeta de instalación y completa el asistente.
+4. > 💡 **Nota sobre Windows SmartScreen:** Al ser una aplicación de distribución propia, Windows podría mostrar la advertencia *"Windows protegió su PC"*. Haz clic en **"Más información"** y luego en **"Ejecutar de todos modos"** para continuar con la instalación de forma segura.
+
+### 🍎 Instalación en macOS (Mac)
+1. Descarga el archivo ejecutable de macOS (`LightStream-Setup-X.Y.Z.dmg` o el `.zip`) desde la página de Releases.
 2. Abre el archivo `.dmg` descargado y arrastra **LightStream** a tu carpeta de Aplicaciones.
-3. > 💡 **Nota de Seguridad de macOS:** Al abrir la app por primera vez, si el sistema indica que proviene de un desarrollador no identificado, ve a **Ajustes del Sistema > Privacidad y Seguridad** y haz clic en **"Abrir de todos modos"**.
+3. > 💡 **Nota de Seguridad de macOS:** Al abrir la app por primera vez, si macOS indica que el desarrollador no está identificado, ve a **Ajustes del Sistema > Privacidad y Seguridad** y haz clic en **"Abrir de todos modos"**.
 
 ---
 
