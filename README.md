@@ -1,6 +1,6 @@
 # ⚡ LightStream - Overlays y Herramientas Interactivas para Streamers
 
-¡Bienvenido al canal oficial de descargas y distribución de **LightStream**! 
+¡Bienvenido al canal oficial de descargas y distribución de **LightStream**!
 
 LightStream es una suite interactiva de escritorio (actualmente disponible únicamente para Windows) diseñada para llevar la interacción de tus transmisiones en directo (TikTok, Kick, Twitch) al siguiente nivel, conectando los eventos del chat directamente con tu PC y tus overlays de streaming.
 
@@ -13,6 +13,7 @@ LightStream es una suite interactiva de escritorio (actualmente disponible únic
 * 🎰 **Mini-Juegos de Casino**: Ruleta, dados y slots interactivos integrados directamente en tu overlay para que los espectadores jueguen en vivo desde el chat.
 * ⚔️ **Batallas TikTok VS**: Marcadores y animaciones de batalla en tiempo real basados en los regalos y donaciones recibidos.
 * 💎 **Puntos de Espectador**: Sistema automático de puntos de fidelidad para premiar el tiempo de visualización de tus espectadores y permitirles canjear recompensas.
+* ⛏️ **Integración con Minecraft**: Conecta eventos de tu stream con acciones en tu mundo de Minecraft. Configura reglas por regalo, seguidor, like o chat, y decide cómo se muestran las imágenes y cuántas veces se repite cada acción.
 
 ### 🎨 Personalización del Canal
 * 🚨 **Alertas Inteligentes**: Animaciones en pantalla 100% personalizables para nuevos seguidores, compartidos, suscriptores, donantes y regalos específicos.
@@ -22,6 +23,7 @@ LightStream es una suite interactiva de escritorio (actualmente disponible únic
 * ⏱️ **Temporizadores y Cuentas Atrás**: Widgets visuales personalizables para pantallas de inicio, pausas o dinámicas de stream.
 
 ### 🎹 Automatización y Control Físico (StreamKeys)
+* ⌨️ **Atajos Globales**: Asigna combinaciones de teclas de tu PC para controlar alertas, TTS, música, temporizador, ruleta y subasta directamente desde tu escritorio.
 * ⚙️ **Atajos de Teclado Simulados**: Automatiza la simulación física de atajos y macros en tu PC (control de OBS, juegos, cámaras) activados por alertas del chat.
 * 👻 **Efectos Visuales e Interacciones Troll**: Lluvias de emojis cómicos, pantallazos azules falsos (BSOD), glitches de video, insectos caminando sobre tu pantalla y jumpscares interactivos.
 * 🖱️ **Control Físico de Periféricos**: Congela el cursor del ratón, activa movimientos erráticos o provoca caos de teclado temporales como dinámicas de juego con el chat.
