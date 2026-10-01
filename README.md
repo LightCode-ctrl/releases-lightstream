@@ -9,7 +9,7 @@ LightStream es una suite interactiva de escritorio (actualmente disponible únic
 ## 🚀 Características Principales
 
 ### 🎮 Interactividad en Vivo y Monetización
-* 🗣️ **TTS Profesional (Text-to-Speech)**: Conversión de texto a voz con voces de Google, TikTok y voces personalizadas. Incluye filtros inteligentes contra spam de letras, palabras repetidas y moderación de chat en tiempo real.
+* 🗣️ **TTS Profesional (Text-to-Speech)**: Conversión de texto a voz con voces de Google, TikTok y voces personalizadas, con configuración de lectura por evento.
 * 🎰 **Mini-Juegos de Casino**: Ruleta, dados y slots interactivos integrados directamente en tu overlay para que los espectadores jueguen en vivo desde el chat.
 * ⚔️ **Batallas TikTok VS**: Marcadores y animaciones de batalla en tiempo real basados en los regalos y donaciones recibidos.
 * 💎 **Puntos de Espectador**: Sistema automático de puntos de fidelidad para premiar el tiempo de visualización de tus espectadores y permitirles canjear recompensas.
